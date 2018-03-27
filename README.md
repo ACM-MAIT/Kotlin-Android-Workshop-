@@ -1,5 +1,5 @@
 # Workshop Project Sample
-Minesweeper game implemented in Kotlin and Firestore for score-keeping.  
+Minesweeper game implemented in Kotlin.  
 
 ## Splash Screen
 ![webp net-resizeimage](https://user-images.githubusercontent.com/30664477/37972507-23a9e996-31f6-11e8-81e8-4cb37e1f78a8.png)
