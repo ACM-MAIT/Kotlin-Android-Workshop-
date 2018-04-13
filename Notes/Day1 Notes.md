@@ -362,8 +362,6 @@ Function used to make instances (objects) of a class
 ```
 ## Lets Code
 
-![capture](https://memegenerator.net/img/instances/42970028/enough-talk-lets-code.jpg)
-
 #### 1. Print the following pattern
 
 ![capture](https://user-images.githubusercontent.com/30664477/38470928-74e1d7c0-3b87-11e8-8ccc-3162829355fc.PNG)
